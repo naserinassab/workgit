@@ -1,0 +1,3 @@
+"hello fighter"
+"second line"
+ECHO is on.
